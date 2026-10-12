@@ -1,0 +1,1 @@
+I learned how to use Git branches, resolve merge conflicts, and collaborate through GitHub pull requests.
